@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Last login on Sunday, April 18, 2021 at 12:30 PM EDT
-=======
-Last login on Sunday, April 18, 2021 at 11:31 AM Eastern Daylight Time
->>>>>>> 5c3aefc35ad731216431d3be0698de2e881eff43
+Last login on Sunday, April 18, 2021 at 12:35 PM EDT
